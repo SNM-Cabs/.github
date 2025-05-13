@@ -22,7 +22,7 @@ To balance the convenience of on-demand travel with the urgency of environmental
 
 ## 🎯 Roadmap
 Our focus for the upcoming months:
-- Expanding our fleet from around 50 to 300 EVs by March 2025
+- Expanding our fleet from around 50 to 300 EVs by 2025
 - Establishing four additional hubs within Pune city
 - Investing in further product development and technological improvements
 - Geographical market expansion beyond Pune
