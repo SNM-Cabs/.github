@@ -1,7 +1,8 @@
-# 🚀 Welcome to Grel Cabs
+# 🚀 Welcome to GREL Cabs
+*A brand by SNM Cabs Private Limited*
 
 ## About Us
-Grel Cabs is dedicated to revolutionizing the ride-hailing industry through our all-electric cab service, addressing common problems like cancellations and surge pricing while promoting sustainability. We build eco-friendly transportation solutions to help riders enjoy a reliable, clean, and environmentally responsible mobility experience.
+GrEl Cabs is dedicated to revolutionizing the ride-hailing industry through our all-electric cab service, addressing common problems like cancellations and surge pricing while promoting sustainability. We build eco-friendly transportation solutions to help riders enjoy a reliable, clean, and environmentally responsible mobility experience.
 
 ## 🌟 Our Vision
 To balance the convenience of on-demand travel with the urgency of environmental preservation, making electric vehicles mainstream and driving the world closer to a net-zero future.
@@ -44,8 +45,8 @@ Our focus for the upcoming months:
 - The company was founded in 2023 and has grown rapidly since
 
 ## 📝 License
-Grel Cabs projects are typically licensed under [license type]. See individual repositories for specific license information.
+Grel Cabs projects are privately licensed. All rights reserved.
 
 ---
 
-<p align="center">Made with ❤️ by Grel Cabs</p>
+<p align="center">Made with ❤️ by Team GrEl</p>
